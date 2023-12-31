@@ -1,5 +1,5 @@
 # fullstack_project
-Modern web development exercises in JavaScript, based on MOOC course
+Modern web development
 
 # status
-MComing up..
+Coming up..
